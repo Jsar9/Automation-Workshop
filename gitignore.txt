@@ -1,0 +1,39 @@
+# MATLAB Editor backup files
+*.asv
+*.bak
+*~
+
+# MATLAB autosave files
+*.autosave
+
+# MATLAB temporary files
+*.tmp
+*.log
+
+# MATLAB figure files (si no querés versionar figuras)
+*.fig
+
+# MATLAB compiled files
+*.mex*
+*.p
+*.mlx
+
+# MATLAB Simulink generated files
+slprj/
+simulink_cache/
+model_slx.slx~
+model.mdl~
+*.slxc
+
+# MATLAB project and session files
+*.prj
+*.mlproj
+*.mlappinstall
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor swap files (general)
+*.swp
+*.swo
